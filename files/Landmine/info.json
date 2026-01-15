@@ -1,6 +1,7 @@
 {
 Name: Landmine;
 Description: Step on it and go Boom!;
+RequiredLocomotion: none;
 Requirements: Pun2;
 Creators: Keo.CS;
 Tutorial: https://youtu.be/_6loV0hkD4k?si=70k38Nws1AEg84xa;
