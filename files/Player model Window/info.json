@@ -1,6 +1,7 @@
 {
 Name: Playermodel Window;
 Description: See all Playermodels that where made by Neboskript;
+RequiredLocomotion: none;
 Creators: Keo.CS (Unity Window), Neboskript (Playermodels);
 Tutorial: /;
 VersionCode: 2;
