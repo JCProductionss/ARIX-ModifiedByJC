@@ -1,6 +1,7 @@
 {
 Name: Lucky Wheel;
 Description: Spin an wheel and get reqards for it;
+RequiredLocomotion: none;
 Requirements: Playfab;
 Creators: Keo.CS;
 Tutorial: https://youtu.be/YooThYHsU9A?si=-_a7-IEMI0_PYJDT;
