@@ -1,9 +1,7 @@
 {
 Name: jctest;
 Description: jctest;
-RequiredLocomotion: none;
-Requirements: jctest;
-Creators: jctest;
-Tutorial: No;
+Creators: TheReelJC;
+Tutorial: /;
 VersionCode: 1;
 }
