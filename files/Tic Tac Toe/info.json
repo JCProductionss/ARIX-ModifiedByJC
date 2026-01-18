@@ -1,9 +1,0 @@
-{
-Name: Tic Tac Toe;
-Description: Play with your friends an good and old round of Tic Tac Toe;
-RequiredLocomotion: none;
-Requirements: Pun2;
-Creators: Keo.CS;
-Tutorial: https://youtu.be/slYBalkGOzY?si=xwwKeNYRSGxbR3dQ;
-VersionCode: 1;
-}
